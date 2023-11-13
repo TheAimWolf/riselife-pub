@@ -1,3 +1,4 @@
+@V1
 - Autos eingefügt
 - Performance verbessert
 - Neue Benutzeroberfläche implementiert
