@@ -1,4 +1,4 @@
-@V1
+@v0.0.1
 - Autos eingefügt
 - Performance verbessert
 - Neue Benutzeroberfläche implementiert
