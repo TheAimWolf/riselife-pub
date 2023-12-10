@@ -50,3 +50,4 @@
 - Erweiterte Anleitung für Entwickler
 - Integration von Virtual-Reality-Elementen
 - Edited by StraydogLP
+- CI/CD für Entwickler
